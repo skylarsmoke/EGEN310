@@ -1,4 +1,4 @@
-''' RC Car Controller App By: Skylar Smoker and Austin Hull '''
+''' RC Car Controller App By: Skylar Smoker'''
 
 import kivy
 kivy.require('1.11.0')
